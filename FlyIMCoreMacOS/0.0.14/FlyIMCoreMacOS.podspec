@@ -25,7 +25,7 @@ Pod::Spec.new do |spec|
   #   * Write the description between the DESC delimiters below.
   #   * Finally, don't worry about the indent, CocoaPods strips it!
   spec.description  = "FlyIM: 基于 Go 实现的即时通讯(IM)项目"
-  spec.homepage     = "https://github.com/ammmnia/FlyIMCoreMacOS"
+  spec.homepage     = "https://lehw160.com/goyuji/flyimcoremacos"
   # spec.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
@@ -78,7 +78,7 @@ Pod::Spec.new do |spec|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  spec.source       = { :git => "https://github.com/ammmnia/FlyIMCoreMacOS.git", :tag => "#{spec.version}" }
+  spec.source       = { :git => "http://lehw160.com/goyuji/flyimcoremacos.git", :tag => "#{spec.version}" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
